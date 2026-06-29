@@ -23,4 +23,4 @@ Meskipun keseharian gw cuma diisi dengan tidur, ngelamun, dan nunda kerjaan, tap
 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░] 85% Isi kepala cuma pengen kasur
 [████████████████████] 100% Tugas kelar pas H-1 menit deadline
 ```
-> Semua ini di buat pake AI btw wkwk
+> All of these made by AI
