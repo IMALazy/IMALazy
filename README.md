@@ -1,24 +1,24 @@
-# 🛌 Hi, Gw IMALazy
+# 🛌 [Nama Lu]
 
-> *"Bisa dikerjain besok kenapa harus sekarang?"*
+> "Kalo bisa kelar ntar malam, ngapain buru-buru sekarang?"
 
-Anemostat berjalan, kasur enthusiast, dan praktisi hukum efisiensi energi (alias: mager). Gw tipe orang yang bakal ngabisin waktu 3 jam buat bikin script otomatisasi cuma demi menghindari tugas manual yang cuma butuh waktu 10 menit.
-
----
-
-### ⚡ Kebenaran yang Tersembunyi (Kalo Lagi Niat)
-
-Walaupun persentase hidup gw 80% tidur dan 20% bengong, sisa 1%-nya (iya, matematika gw emang agak beda) bisa dipake buat beresin project yang harusnya kelar sebulan jadi semalam doang. *Power of kepepet is real.*
-
-* **Status Saat Ini:** Sedang menghemat energi (AFK).
-* **Skill Rahasia:** Nemu jalan pintas paling cepet buat masalah paling ribet.
-* **Bahasa Pemrograman Terpilih:** Apa aja yang syntax-nya gak bikin pusing.
-* **Hobi:** Menolak push ke production di hari Jumat.
+Full-time rebahan enthusiast yang kebetulan nyasar di dunia teknologi. Gw tipe orang yang rela ngabisin waktu berjam-jam bikin script otomatisasi cuma demi menghindari tugas manual yang aslinya cuma butuh 5 menit. *Work smarter, not harder,* tapi versi malesnya.
 
 ---
 
-### 📊 Statistik Gabut
+### ⚡ Efisiensi Maksimal (Pas Lagi Kumat)
+
+Meskipun keseharian gw cuma diisi dengan tidur, ngelamun, dan nunda kerjaan, tapi sekalinya mepet deadline... kelar juga. *Power of kepepet is my ultimate superpower.*
+
+* **Status:** Hemat energi (jangan di-ping kalo gak darurat).
+* **Skill Terkuat:** Nemu jalan pintas paling taktis buat masalah yang paling ribet.
+* **Tech Stack:** Apa aja yang syntax-nya ringkas dan gak bikin pusing.
+* **Rule No. 1:** Haram hukumnya *push* ke production pas hari Jumat sore.
+
+---
+
+### 📊 Kondisi Saat Ini
 
 ```text
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░] 80% Keinginan untuk rebahan
-[████████████████████] 100% Selesai tepat waktu (pas deadline kurang 2 menit)
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░] 85% Isi kepala cuma pengen kasur
+[████████████████████] 100% Tugas kelar pas H-1 menit deadline
