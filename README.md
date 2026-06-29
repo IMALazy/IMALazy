@@ -1,4 +1,4 @@
-# 🛌 [Nama Lu]
+# 🛌 Halo Gw IMALazy
 
 > "Kalo bisa kelar ntar malam, ngapain buru-buru sekarang?"
 
